@@ -7,7 +7,7 @@ about:
     - icon: envelope
       href: mailto:macy_brammer@brown.edu
     - icon: github
-      href: https://github.com/mlbrammer
+      href: https://github.com/macybrammer
     - icon: file-text
       href: files/brammer_cv.pdf
 ---

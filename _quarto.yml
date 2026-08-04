@@ -12,7 +12,7 @@ website:
         text: cv
         
   page-footer:
-    center: "© 2026 Macy Brammer. Created with <a href=https://quarto.org/>Quarto</a>"
+    center: "© 2026 Macy Brammer. Created with <a href=https://quarto.org/>Quarto</a>."
     border: false
 
 format:

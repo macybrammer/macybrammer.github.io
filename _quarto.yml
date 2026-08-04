@@ -3,6 +3,7 @@ project:
 
 website:
   title: "macy brammer"
+  favicon: favicon.png
   navbar:
     left:
       - href: about.qmd

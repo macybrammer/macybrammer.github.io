@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "macy brammer"
+  navbar:
+    left:
+      - href: about.qmd
+        text: bio
+      - href: cv.qmd
+        text: cv
+        
+  page-footer:
+    center: "© 2026 Macy Brammer. Created with <a href=https://quarto.org/>Quarto</a>"
+    border: false
+
+format:
+  html:
+    theme:
+      - litera
+      - custom.scss
+    css: styles.css
+    toc: true
+
+
+

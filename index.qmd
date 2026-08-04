@@ -1,0 +1,16 @@
+---
+title: "macy brammer"
+about:
+  template: jolla
+  image: profile.JPG
+  links:
+    - icon: envelope
+      href: mailto:macy_brammer@brown.edu
+    - icon: github
+      href: https://github.com/mlbrammer
+    - icon: file-text
+      href: files/brammer_cv.pdf
+---
+
+::: {.home-intro}
+Hello! I am a sociologist studying care work in education and healthcare settings. I'm currently a 4th year PhD student in the sociology department at Brown University. Learn more about me and my work [here](about.qmd){.no-underline}.
